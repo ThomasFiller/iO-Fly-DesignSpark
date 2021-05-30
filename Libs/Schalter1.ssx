@@ -1,0 +1,15 @@
++V||1
+1P||1
+C||2
+C 1uF||2
+C 470nF||2
+FROM||1
+GND||1
+L||2
+Optokoppler||4
+Printklemme||8
+R||2
+RES||2
+RESV||2
+TO||1
+Trafo||8

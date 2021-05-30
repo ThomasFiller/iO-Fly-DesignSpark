@@ -1,0 +1,17 @@
+Bei Pro-Variante nicht bestücken; Ausdrucken der Stückliste-> Output/Reports, Pro-Variante_an_sh-Elektronik, Run:
+R301, R302, R303, R304, R305, R903
+Q2
+C903, C904
+IC93
+
+Bei mini-Variante nicht bestücken; Ausdrucken der Stückliste-> Output/Reports, Mini-Variante_an_sh-Elektronik , Run:
+T1, T2, T3, T4, T5, T6, T8, T9, T10, T12, T13, T15, T40, T41, T42
+R40, R41, R42, R43, R44, R45, R46, R47, R48, R49, R81, R84, R85, R86, R88, R89, R90, R91, R92, R93, R102, R103, R104, R105, R106, R107, R903, R905, R906, R907
+L1, L20
+Q1, Q2
+REL40
+D5, D6, D7, D20, D22, D24, D25, D40, D41, D85, D86, D89, D90
+ZD40, ZD41, ZD45
+IC2, IC20, IC91, IC92, IC93
+C20, C21, C22, C23, C44, C45, C73, C74, C77, C83, C91, C92, C93, C94, C96, C903, C904, C907, C908
+MicroSdConn1

@@ -1,0 +1,2 @@
+- Report-Dialog öffnen (Output/Reports...) und dort Button "Options..." anklicken
+- in der untersten Zeile "Report Template Folder" wird das Verzeichnis für die Templates angegeben; dorthin müssen die Dateien aus diesem Ordner kopiert werden, um Stücklisten zu erzeugen
